@@ -93,7 +93,7 @@ Se verificó el grupo de seguridad asociado a la VM y se agregó una nueva regla
 🔧 **Nueva regla de seguridad:**
 | Nombre              | Prioridad | Protocolo | Puerto de destino | Acción   |
 |---------------------|----------|-----------|-------------------|----------|
-| Allow-Mario-Game   | 1000     | TCP       | 8787              | Permitir |
+|                     | 1011     | Any       | 8787              | Permitir |
 
 ![Regla de Seguridad](img/rule.png)
 
